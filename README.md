@@ -60,7 +60,7 @@ The files are organized by phase directories with standard zero-padded numbering
 ## 📌 How to Use This Repo
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/protik1502/Logic-Building-Py.git
    ```
 2. Navigate to the desired phase directory.
 3. Run any solution script:
