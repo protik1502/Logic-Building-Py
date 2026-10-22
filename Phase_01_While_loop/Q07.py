@@ -1,3 +1,5 @@
+# Calculate and Print the sum of all even even numbers from 1 to n.
+
 user_input = int(input("Enter your number: "))
 def even_sum (num):
     count = 2
