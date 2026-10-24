@@ -17,4 +17,6 @@ def palindrome (num):
         else:
             return "The number is not Palindrome"
 print(palindrome(user_input))
+
+# A palindrome number (or palindromic number) is a number that stays the same when its digits are reversed.
             
