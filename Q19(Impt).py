@@ -17,6 +17,22 @@ def fibonacci_series (num):
         print("Enter number greater than 1")
 fibonacci_series(user_input)
 
+'''
+The Fibonacci series is a sequence of numbers where each
+number is the sum of the two numbers that come before it.
+
+
+How It Works:
+
+You build the sequence by adding the previous two numbers together:
+• (0 + 1 = 1)
+• (1 + 1 = 2)
+• (1 + 2 = 3)
+• (2 + 3 = 5)
+• (3 + 5 = 8)
+
+'''
+
         
 
       
